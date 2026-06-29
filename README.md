@@ -2,6 +2,8 @@
 
 > A production-grade financial derivatives calculator built from scratch — Black-Scholes, all 5 Greeks, and Monte Carlo simulation — with zero external math libraries.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-options--engine-ED9E59?style=flat-square)](https://options-engine-red.vercel.app)
+
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.x-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
