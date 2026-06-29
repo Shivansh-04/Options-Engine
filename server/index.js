@@ -21,7 +21,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://options-engine.vercel.app",
+    "https://options-engine-red.vercel.app",
   ],
   credentials: true,
 }));
